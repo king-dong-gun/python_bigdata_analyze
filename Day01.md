@@ -44,13 +44,27 @@
 ##### Pandas 학습
 데이터 분석(로딩, 처리...etc) 라이브러리
 
+
+![자료구조](images/dataPandas.png)
+
+
 1. Pandas 자료구조
     - 데이터프레임, 시리즈
-    - [데이터프레임 사용방법]()
-    
-    - 
+    - [데이터프레임 사용방법](day01/data01_pandas.basic.ipynb)
 
 ##### VS Code 문제확인
 dataFrame을 사용할때 타이핑이 밀리는 현상 해결방법
+```python
 1. command + Shift + P
-2. 
+2. config runtime arguments 검색
+3. "disable-hardware-acceleration": true 주석 해제
+4. 해결!!!!
+```
+
+##### VS Code 한글 깨짐 문제확인
+```python
+cvs 파일에서 한글이 깨지는 현상 해결방법
+1. 엑셀 데이터 텝 >> 데이터 >> CSV가져오기 >> 파일선택
+2. 파일원본 >> 한국어 -> 유니코드(UTF-8) 설정
+3. 해결!!!!
+```
