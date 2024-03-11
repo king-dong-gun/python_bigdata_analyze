@@ -36,7 +36,7 @@ URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai
 이라는 인증 문제가 나타난다.
 ```shell
 1. Finder에서 사용하고 있는 파이썬 파일 찾기
-2. 파이썬 파일 내의 install Certific Command 파일 클릭
+2. 파이썬 파일 내의 'install Certific Command' 파일 클릭
 3. 터미널이 실행되면서 파이썬 인증서 설치
 4. 설치 완료 후 VS Code 다시 실행하고 모두 실행
 5. 해결!!!!
