@@ -54,7 +54,7 @@
 
 ##### VS Code 문제확인
 dataFrame을 사용할때 타이핑이 밀리는 현상 해결방법
-```python
+```shell
 1. command + Shift + P
 2. config runtime arguments 검색
 3. "disable-hardware-acceleration": true 주석 해제
@@ -62,7 +62,7 @@ dataFrame을 사용할때 타이핑이 밀리는 현상 해결방법
 ```
 
 ##### VS Code 한글 깨짐 문제확인
-```python
+```shell
 cvs 파일에서 한글이 깨지는 현상 해결방법
 1. 엑셀 데이터 텝 >> 데이터 >> CSV가져오기 >> 파일선택
 2. 파일원본 >> 한국어 -> 유니코드(UTF-8) 설정
