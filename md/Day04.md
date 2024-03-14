@@ -10,7 +10,7 @@
     ![image](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/457d8281-93c0-4941-a484-0ca886048bb6)
 
 3. 관광객 수 TOP5 나라 시각화 및 히트캡
-    ![image](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/23be4154-01d3-4c37-8544-74ffb79f46cd)
+    ![스크린샷 2024-03-14 오후 2 35 30](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/80629008-5c40-4f41-96f7-5bc8f60ec0d5)
 
 4. 시각화 데이터를 이용하여 분석완료
 

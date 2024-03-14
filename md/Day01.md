@@ -28,16 +28,16 @@
 
 #### 데이터 분석 기초
 데이터 분석을 위한 라이브러리(모듈) 학습부터 시작!!
-- Pandas : 데이터 처리 라이브러리
-- Numpy : 수치해석, 계산용 라이브러리
-- Excel, cvs용 라이브러리 : Excel, CSV, JSON 문서 데이터 로드or저장 라이브러리
-- Selenium ; 웹 크롤링 자동화 라이브러리
-- BeautifulSoup : 웹 데이터를 정제 라이브러리
-- Matplot.lib : 차트 표현 라이브러리
-- Seaborn : 시각화 라이브러리 
-- Folium : 지도 시각화 라이브러리
-- TensorFlow : 머신러닝 라이브러리
-- PyTorch : 머신러닝, 딥러닝 라이브러리
+- `Pandas` : 데이터 처리 라이브러리
+- `Numpy` : 수치해석, 계산용 라이브러리
+- `Excel, cvs용 라이브러리` : Excel, CSV, JSON 문서 데이터 로드or저장 라이브러리
+- `Selenium` : 웹 크롤링 자동화 라이브러리
+- `BeautifulSoup` : 웹 데이터를 정제 라이브러리
+- `Matplot.lib` : 차트 표현 라이브러리
+- `Seaborn` : 시각화 라이브러리 
+- `Folium` : 지도 시각화 라이브러리
+- `TensorFlow` : 머신러닝 라이브러리
+- `PyTorch` : 머신러닝, 딥러닝 라이브러리
 
 추가 내용 >> [Kaggle](https://www.kaggle.com/)
 
