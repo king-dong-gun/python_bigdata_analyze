@@ -41,5 +41,5 @@
 ## [6일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day06.md)
 ### 빅데이터 학습
 #### 빅ㅔ이터 분석 실습
-1. 스타벅스 입지 선정 분석
+1. 스타벅스 입지 선정 분석 (~day05)
 
