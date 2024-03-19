@@ -40,6 +40,12 @@
 
 ## [6일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day06.md)
 ### 빅데이터 학습
-#### 빅ㅔ이터 분석 실습
+#### 빅데이터 분석 실습
 1. 스타벅스 입지 선정 분석 (~day05)
+
+## [7일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day07.md)
+### 빅데이터 학습
+#### 빅데이터 분석 실습
+1. 스타벅스 입지 선정 분석 (완)
+2. 다나와 사이트에서 무선청소기 크롤링
 
