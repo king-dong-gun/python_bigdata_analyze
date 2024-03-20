@@ -49,3 +49,15 @@
 1. 스타벅스 입지 선정 분석 (완)
 2. 다나와 사이트에서 무선청소기 크롤링
 
+## [8일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day08.md)
+### 빅데이터 학습
+#### 빅데이터 분석 실습
+1. 다나와 사이트에서 무선청소기 전처리 및 시각화
+    - 결과가 예상, 실제와 많이 다름
+
+## [9일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day08.md)
+### 빅데이터 학습
+1. OPEN API 기반 크롤링 실습
+2. 통계 분석 리뷰
+3. 머신러닝 실습
+

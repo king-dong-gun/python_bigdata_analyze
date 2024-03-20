@@ -26,4 +26,4 @@
 - 가성비 좋은 제품 시각화
 
 
-![무선청소기 인기상품 시각화](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/fda42152-6a04-494c-a07e-e3128078a18c)
+![무선청소기 인기상품 시각화](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/d9020fb6-1c10-4745-a00e-15a067170109)
