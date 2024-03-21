@@ -36,7 +36,7 @@
 
 ![touristData엑셀파일](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/74e0b0b2-8aa5-4dcd-9fca-03bfc76bf8cb)
 
-##### 통계 분석
+##### 와인 품질 데이터 통계 분석
 1. 데이터 준비
 2. 데이터 병합 (ex > 레드와인, 화이트와인 병합)
 3. 데이터 탐색
