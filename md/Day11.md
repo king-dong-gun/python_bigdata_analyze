@@ -4,7 +4,7 @@
 ### 머신러닝 실습
 
 #### 회귀분석 (https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/day11/data23_bostonHouse.priceAnalyze.ipynb)
-[환경에 따른 주택가격 예측] (https://github.com/king-dong-gun/python_bigdata_analyze/tree/main/day11)
+[환경에 따른 주택가격 예측]
 - 사이킷런 라이브러리 내 보스턴집값 데이터
 
     <img src="https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/0da8af22-a910-42a7-af0f-937b4877bf7f" width="900" height="600"/>
