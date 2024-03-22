@@ -63,6 +63,11 @@
 
 ## [10일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day010.md)
 ### 빅데이터 학습
-1. OPEN API 기반 크롤링 실습
-2. 와인 품질 통계 분석 리뷰
+1. 와인 품질 통계 분석 리뷰(완)
+2. 타이타닉 성별에 따른 생존자 비율 분석(완)
+
+## [11일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/Day011.md)
+### 빅데이터 학습
+1. 보스턴 환경에 따른 주택 가격 회귀분석
+2. 로지스틱회귀 분석
 
