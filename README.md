@@ -67,7 +67,17 @@
 2. 타이타닉 성별에 따른 생존자 비율 분석(완)
 
 ## [11일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/md/Day11.md)
-### 빅데이터 학습
+### 머신러닝 실습
 1. 보스턴 환경에 따른 주택 가격 회귀분석
 2. 로지스틱회귀 분석
 
+## [12일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/md/Day12.md)
+### 머신러닝 실습
+1. 로지스터 회귀 분석
+2. 결정트리 분석
+3. 텍스트 마이닝, 감성분석
+
+## [13일차](https://github.com/king-dong-gun/python_bigdata_analyze/blob/main/md/Day13.md)
+### 머신러닝 실습
+1. 텍스트 마이닝, 감성분석(완)
+2. 코로나 뉴스로 감성 분석(완)
