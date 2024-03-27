@@ -8,7 +8,8 @@
 ##### Pandas 학습 (Day01 ~)
 
 2. Pandas 내용 통합(merge, concat) 
-    ![concat결과]()
+
+    ![concat결과](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/440c879a-468d-467a-8489-4f058e336a60)
 
 3. Pivot 테이블
 

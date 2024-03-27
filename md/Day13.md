@@ -19,3 +19,5 @@
 > 코로나 뉴스로 감성 분석
 ![감성분석+바차트](https://github.com/king-dong-gun/python_bigdata_analyze/assets/160683545/c5f494fe-4060-4815-bb75-83a6046ef1a8)
 
+#### 코딩 테스트
+> 2020-21 잉글랜드 프리미어리그 맨체스터 유나이티드 우승분석
